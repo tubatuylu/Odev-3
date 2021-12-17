@@ -13,3 +13,25 @@ font-size: 28px;
 color: black;
 border:solid  2px black;
 }
+.altb{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blanchedalmond;
+}
+ul{
+    font-size: 20px;
+    color: black;
+    font-family: monospace;
+}
+ol{
+    font-size: 20px;
+    color: black;
+    font-family: monospace;
+}
+
+footer{
+    font-size: x-large;
+    color: bisque;GİT 
+    border:2px solid burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
