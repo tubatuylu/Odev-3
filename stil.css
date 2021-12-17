@@ -1,0 +1,15 @@
+#başlıklar{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    background-color: burlywood;
+    color: rgb(3, 0, 0);
+}
+html{
+    background-color: chocolate;
+}
+#baslık2 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 28px;
+color: black;
+border:solid  2px black;
+}
